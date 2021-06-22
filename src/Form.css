@@ -1,0 +1,13 @@
+form {
+  margin: 10px;
+}
+input {
+  margin: 10px;
+  padding: 5px;
+  border-radius: 5px;
+  border-width: 1px;
+}
+
+button {
+  margin: 10px;
+}
