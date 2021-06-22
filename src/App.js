@@ -1,7 +1,7 @@
 
 import './App.css';
 
-import "./styles.css";
+
 import Form from "./Form.js";
 import Footer from "./Footer";
 import CityDisplay from "./CityDisplay";
@@ -14,7 +14,7 @@ import "./CityDisplay.css";
 import "./Footer.css";
 import "./Forecast.css";
 import "./App.css";
-import "bootstrap/dist/css/bootstrap.css";
+
 
 export default function App() {
   return (

@@ -10,4 +10,9 @@ input {
 
 button {
   margin: 10px;
+  border-radius: 5px;
+  border-width: 1px;
+  padding: 5px;
+  background-color: #1461fc;
+  color: cornsilk;
 }
