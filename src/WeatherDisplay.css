@@ -1,0 +1,8 @@
+.WeatherDisplay li {
+  list-style: none;
+  color: grey;
+}
+
+svg {
+  color: orangered;
+}
